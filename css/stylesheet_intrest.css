@@ -1,0 +1,18 @@
+div{
+    padding: 10px 10px 10px 10px;
+    margin: 100px 790px 23px 16px;
+    color: white;
+    font-family: cursive;
+}
+div h1{
+    margin: 30px 0px;
+    color: tomato;
+    font-size: 70px;
+}
+body{
+    background-image: url(../images/intrest.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1750px;
+    height: 700px;
+}
